@@ -5,7 +5,7 @@
     consiste em um conversor de moedas em
     Java com consumo de API.</h2>
 
-<h3 align-text="left">Moedas:</h2>
+<h3 align-text="left"> :dollar: Moedas:</h2>
 <ul>
   <li>$ USD (Dólar Americano)</li>
   <li>R$ BRL (Real Brasileiro)</li>
